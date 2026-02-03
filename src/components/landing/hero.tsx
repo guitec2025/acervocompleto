@@ -42,7 +42,7 @@ export function Hero() {
             />
           </div>
           <h1 className="text-4xl lg:text-5xl font-headline font-bold leading-tight max-w-3xl text-[#563209]" style={{ textShadow: '1px 1px 3px rgba(0,0,0,0.2)' }}>
-            Aprenda a criar <span className="font-bold">amigurumis encantadores e altamente vendáveis. 🧸✨</span> Transforme sua <span className="font-bold">paixão pelo crochê em uma fonte de renda real, mesmo começando do zero.</span>
+            Aprenda a criar <span className="font-bold">amigurumis encantadores e vendáveis.</span> 🧸 Transforme sua <span className="font-bold">paixão pelo crochê em renda com amigurumi!</span>
           </h1>
           <p className="mt-6 text-xl max-w-2xl font-body text-foreground" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.2)' }}>
             🚨 Inscrições abertas para o Acervo Completo Amigurumi – Tatiane Barros, onde você terá acesso a uma <span className="font-bold">coleção exclusiva com mais de 2.000 receitas de amigurumis, organizadas, detalhadas e prontas para produzir, personalizar e vender.</span>
@@ -85,7 +85,7 @@ export function Hero() {
                   />
               </div>
               <h1 className="text-3xl font-headline font-bold leading-tight text-[#563209]">
-                  Aprenda a criar <span className="font-bold">amigurumis encantadores e altamente vendáveis. 🧸✨</span> Transforme sua <span className="font-bold">paixão pelo crochê em uma fonte de renda real, mesmo começando do zero.</span>
+                  Aprenda a criar <span className="font-bold">amigurumis encantadores e vendáveis.</span> 🧸 Transforme sua <span className="font-bold">paixão pelo crochê em renda com amigurumi!</span>
               </h1>
               <p className="mt-4 text-lg font-body text-foreground">
                   🚨 Inscrições abertas para o Acervo Completo Amigurumi – Tatiane Barros, onde você terá acesso a uma <span className="font-bold">coleção exclusiva com mais de 2.000 receitas de amigurumis, organizadas, detalhadas e prontas para produzir, personalizar e vender.</span>
