@@ -89,7 +89,7 @@ export function Gallery() {
         </p>
 
         <Tabs defaultValue="amigurumis" className="w-full max-w-lg mx-auto mt-8">
-          <TabsList className="grid w-full grid-cols-3 h-auto p-2">
+          <TabsList className="h-auto p-2">
             <TabsTrigger value="amigurumis" className="text-base">AMIGURUMIS</TabsTrigger>
             <TabsTrigger value="praia" className="text-base">BRILHAM NO ESCURO</TabsTrigger>
             <TabsTrigger value="abraca-cortina" className="text-base">ABRAÇA CORTINA</TabsTrigger>
