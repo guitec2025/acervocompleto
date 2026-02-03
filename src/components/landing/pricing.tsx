@@ -46,8 +46,8 @@ export function Pricing() {
             <div className="mt-4 text-center">
                 <p className="text-lg text-black">💰De <span className="line-through">R$157</span> por</p>
                 <div className="flex items-baseline justify-center gap-1">
-                    <span className="text-5xl font-extrabold text-black"><b>R$47</b></span>
-                    <span className="text-3xl font-extrabold text-black"><b>,90</b></span>
+                    <span className="text-5xl font-extrabold text-black"><b>R$29</b></span>
+                    <span className="text-3xl font-extrabold text-black"><b>,99</b></span>
                 </div>
                  <p className="text-sm text-black flex items-center gap-2 justify-center mt-2 font-bold">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-clock"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
