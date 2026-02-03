@@ -45,7 +45,7 @@ export function Hero() {
             Aprenda a criar <span className="font-bold">amigurumis encantadores e vendáveis.</span> 🧸 Transforme sua <span className="font-bold">paixão pelo crochê em renda com amigurumi!</span>
           </h1>
           <p className="mt-6 text-xl max-w-2xl font-body text-foreground" style={{ textShadow: '1px 1px 2px rgba(0,0,0,0.2)' }}>
-            🚨 Inscrições abertas para o Acervo Completo Amigurumi – Tatiane Barros, onde você terá acesso a uma <span className="font-bold">coleção exclusiva com mais de 2.000 receitas de amigurumis, organizadas, detalhadas e prontas para produzir, personalizar e vender.</span>
+            ✨ As inscrições estão abertas para o Acervo Completo Amigurumi, com uma coleção exclusiva de mais de 2.000 receitas, feitas para quem quer criar do zero e vender com segurança.
           </p>
           <Button
             asChild
@@ -88,7 +88,7 @@ export function Hero() {
                   Aprenda a criar <span className="font-bold">amigurumis encantadores e vendáveis.</span> 🧸 Transforme sua <span className="font-bold">paixão pelo crochê em renda com amigurumi!</span>
               </h1>
               <p className="mt-4 text-lg font-body text-foreground">
-                  🚨 Inscrições abertas para o Acervo Completo Amigurumi – Tatiane Barros, onde você terá acesso a uma <span className="font-bold">coleção exclusiva com mais de 2.000 receitas de amigurumis, organizadas, detalhadas e prontas para produzir, personalizar e vender.</span>
+                  ✨ As inscrições estão abertas para o Acervo Completo Amigurumi, com uma coleção exclusiva de mais de 2.000 receitas, feitas para quem quer criar do zero e vender com segurança.
               </p>
               <Button
                   asChild
