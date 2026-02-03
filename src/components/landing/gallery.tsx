@@ -125,7 +125,7 @@ export function Gallery() {
 
         <div className="mt-12 text-lg space-y-2">
           <p><b>Um único gráfico resolve pouco.</b><br/><b>Um acervo completo muda tudo.</b></p>
-          <p>Enquanto <b>muitos vendem 1 receita por R$19,90,</b> aqui você acessa + de 2.000 receitas por <span className="text-xl font-bold">menos de R$0,03 cada modelo.</span></p>
+          <p>Enquanto <b>muitos vendem UMA receita por R$20,</b> aqui você acessa + de 2.000 receitas por <span className="text-xl font-bold">menos de R$0,03 cada modelo.</span></p>
         </div>
         <Button size="lg" className="mt-4 h-14 text-lg bg-primary hover:bg-primary/90 text-primary-foreground font-medium" asChild>
           <a href="#pricing">
@@ -136,10 +136,3 @@ export function Gallery() {
     </section>
   );
 }
-
-    
-    
-
-    
-
-    
